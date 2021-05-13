@@ -9,3 +9,5 @@ We are going to cove some **practical scenarios** step by step for Installing, C
 ### [02 Deploy Containers Using CLI (kubectl)](https://github.com/AmirDez/kubernetes-practical-scenarios/tree/master/02-Deploy-Container-With-CLI)
 
 ### [03 Deploy Containers Using YAML](/03-Deploy-Containers-Using-YAML)
+
+### [04 Doploy Multi Tier App](/04-Doploy-Multi-Tier-App)
